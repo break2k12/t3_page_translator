@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-04-07T09:01:03Z" product-name="ec_page_translator">
+		<header/>
+		<body>
+			<trans-unit id="tx_ecpagetranslator_domain_model_pages">
+				<source>Pages</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

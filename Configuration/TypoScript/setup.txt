@@ -1,0 +1,12 @@
+
+ # Module configuration
+module.tx_ecpagetranslator_tools_ecpagetranslatorecpagetranslator {
+	persistence {
+		storagePid = {$module.tx_ecpagetranslator_ecpagetranslator.persistence.storagePid}
+	}
+	view {
+		templateRootPaths.0 = {$module.tx_ecpagetranslator_ecpagetranslator.view.templateRootPath}
+		partialRootPaths.0 = {$module.tx_ecpagetranslator_ecpagetranslator.view.partialRootPath}
+		layoutRootPaths.0 = {$module.tx_ecpagetranslator_ecpagetranslator.view.layoutRootPath}
+	}
+}
